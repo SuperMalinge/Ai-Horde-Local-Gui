@@ -1,6 +1,4 @@
-Absolutely, Stephan! Here's a polished and visually structured English README version that includes the image reference:
 
----
 
 # AI Horde Worker reGen GUI
 
