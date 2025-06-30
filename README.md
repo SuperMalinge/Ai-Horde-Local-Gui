@@ -50,6 +50,3 @@ When first launched, the application creates a `settings` directory to store:
 
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.
 
----
-
-If you'd like, I can also add status badges (like Python version, license, or last commit), or guide you on how to link to documentation or demo videos. Just let me know!
