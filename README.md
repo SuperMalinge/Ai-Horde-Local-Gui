@@ -1,4 +1,4 @@
-
+Current state: WIP- Partially working.
 
 # AI Horde Worker reGen GUI
 
